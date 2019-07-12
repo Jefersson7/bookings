@@ -17,4 +17,4 @@ La página se recargará cuando haga modificaciones.
 
 ## Consideraciones
 
-Se usaron las siguientes componentes: Bootstrap, react-router, reac-data-grid para el renderizado de los datos a traves de un data grid, y para las peticiones HTTP se uso axios
+Se usaron las siguientes componentes: `bootstrap`, `react-router`, `reac-data-grid` para el renderizado de los datos a traves de un data grid, y para las peticiones HTTP se usó `axios`.
